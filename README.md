@@ -1,3 +1,16 @@
+## 参考
+
+[コチラ](https://eh-career.com/engineerhub/entry/2023/04/18/093000)を参考に作成しました。
+
+## 使い方
+
+```bash
+npm install
+npx prisma migrate dev
+npx prisma db seed
+npm run dev
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
